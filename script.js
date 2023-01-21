@@ -11,7 +11,7 @@ const title = document.getElementById('title');
 const cover = document.getElementById('cover');
 
 // Song titles
-const songs = ['palbehta','sage' , 'ooantava', 'uddgaye', 'blindinglights']
+const songs = ['palbehta','sage' , 'ooantava', 'uddgaye', 'blindinglights','calmdown','naatu','jhoom','ratanlambiya','manike','safari','firework'];
 
 
 
