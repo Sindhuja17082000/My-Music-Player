@@ -440,7 +440,7 @@ box-shadow: 0 8px 16px 0 rgba(223, 223, 223, 0.599);
   position: fixed;
   display: flex;
   top: 633px;
- background-image: url(back.jpg);
+ 
  background-repeat: no-repeat;
  background-size: cover;
  background-position: center;
